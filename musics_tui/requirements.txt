@@ -1,0 +1,12 @@
+pytest
+password-validator
+valid8
+typeguard
+rich
+python-dotenv
+art
+python-stdnum
+requests
+python-dateutil
+pwinput
+requests_mock
