@@ -1,0 +1,17 @@
+django-money
+pytest-django
+pytest
+mixer
+django-rest-auth
+dj-rest-auth
+dj-rest-auth-social
+django-cors-headers
+django-cors
+python-stdnum
+coreapi
+pyyaml
+django-allauth
+djangorestframework
+django-rest-framework
+coreschema
+django
